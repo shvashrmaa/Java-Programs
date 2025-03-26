@@ -36,6 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArithmeticJava.executor": "Run",
+    "Application.FactorialJava.executor": "Run",
+    "Application.SumOfDigit.executor": "Run",
     "Application.SumOfNumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -48,6 +50,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SumOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfDigit" />
+      <module name="Java Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumOfDigit" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,11 +82,18 @@
       <updated>1742940493734</updated>
       <workItem from="1742940494856" duration="479000" />
       <workItem from="1742958589033" duration="1217000" />
-      <workItem from="1742980042623" duration="731000" />
+      <workItem from="1742980042623" duration="2589000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="while(num &lt;= 0){}" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
