@@ -37,6 +37,7 @@
   "keyToString": {
     "Application.ArithmeticJava.executor": "Run",
     "Application.FactorialJava.executor": "Run",
+    "Application.FibonacciJava.executor": "Run",
     "Application.SumOfDigit.executor": "Run",
     "Application.SumOfNumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -82,7 +83,7 @@
       <updated>1742940493734</updated>
       <workItem from="1742940494856" duration="479000" />
       <workItem from="1742958589033" duration="1217000" />
-      <workItem from="1742980042623" duration="2589000" />
+      <workItem from="1742980042623" duration="3535000" />
     </task>
     <servers />
   </component>
