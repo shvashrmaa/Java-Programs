@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144942d6-65a1-4a62-8362-a88896c13955" name="Changes" comment="" />
+    <list default="true" id="144942d6-65a1-4a62-8362-a88896c13955" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,7 @@
     "Application.Program51.executor": "Run",
     "Application.Program52.executor": "Run",
     "Application.PublicationTest.executor": "Run",
+    "Application.Server.executor": "Run",
     "Application.SumOfDigit.executor": "Run",
     "Application.SumOfNumbers.executor": "Run",
     "Application.TestAccess.executor": "Run",
@@ -59,7 +62,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="Java Programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumOfDigit" />
       <module name="Java Programs" />
@@ -69,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Server" />
         <item itemvalue="Application.SumOfDigit" />
       </list>
     </recent_temporary>
@@ -93,7 +104,7 @@
       <workItem from="1742958589033" duration="1217000" />
       <workItem from="1742980042623" duration="4530000" />
       <workItem from="1743053659965" duration="1413000" />
-      <workItem from="1744984751504" duration="4175000" />
+      <workItem from="1744984751504" duration="5945000" />
     </task>
     <servers />
   </component>
