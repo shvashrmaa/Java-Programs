@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class SumOfDigit {
 
+//    143 ==> 8  Sum of digits
+
     public static int sumOfDigit(int num)
     {
         int sum = 0;
