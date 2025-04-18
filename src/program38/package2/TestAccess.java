@@ -1,6 +1,6 @@
-package package2;
+package program38.package2;
 
-import package1.AccessDemo;
+import program38.package1.AccessDemo;
 
 class SubDemo extends AccessDemo {
     void show() {

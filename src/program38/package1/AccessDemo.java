@@ -1,4 +1,4 @@
-package package1;
+package program38.package1;
 
 public class AccessDemo {
     private int privateVar = 10;
