@@ -10,12 +10,12 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.media.MediaView;
 import javafx.stage.Stage;
 
-public class MediaSwingApp extends JFrame {
+public class Program56 extends JFrame {
 
     private Image image;
     private AudioClip audioClip;
 
-    public MediaSwingApp() {
+    public Program56() {
         // Set up the JFrame (Swing window)
         setTitle("Swing Media Example");
         setSize(600, 500);
